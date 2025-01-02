@@ -47,3 +47,4 @@
 2025-01-02 fix encoding issue [19]
 2025-01-02 fix config bug [20]
 2025-01-02 fix timezone issue [21]
+2025-01-02 add integration tests [22]
