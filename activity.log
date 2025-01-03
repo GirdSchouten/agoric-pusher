@@ -114,3 +114,4 @@
 2025-01-03 improve logging format [40]
 2025-01-03 patch memory leak [41]
 2025-01-03 fix warnings [42]
+2025-01-03 fix config bug [43]
