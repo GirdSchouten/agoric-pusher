@@ -279,3 +279,4 @@
 2025-01-08 fix CI errors [2]
 2025-01-08 fix config bug [3]
 2025-01-08 fix warnings [4]
+2025-01-08 fix null pointer [5]
