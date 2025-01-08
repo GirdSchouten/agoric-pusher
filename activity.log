@@ -277,3 +277,4 @@
 2025-01-07 patch memory leak [46]
 2025-01-08 adjust timeout [1]
 2025-01-08 fix CI errors [2]
+2025-01-08 fix config bug [3]
