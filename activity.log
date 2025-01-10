@@ -328,3 +328,4 @@
 2025-01-09 update API endpoints [21]
 2025-01-09 restructure modules [22]
 2025-01-10 update schema migration [1]
+2025-01-10 fix crash issue [2]
