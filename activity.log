@@ -465,3 +465,4 @@
 2025-01-15 improve logging format [9]
 2025-01-15 fix encoding issue [10]
 2025-01-15 adjust error messages [11]
+2025-01-15 update CI pipeline [12]
