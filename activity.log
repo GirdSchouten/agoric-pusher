@@ -713,3 +713,4 @@
 2025-01-22 enhance error reporting [15]
 2025-01-22 improve caching [16]
 2025-01-22 update schema migration [17]
+2025-01-22 fix encoding issue [18]
