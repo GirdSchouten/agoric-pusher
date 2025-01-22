@@ -710,3 +710,4 @@
 2025-01-22 fix null pointer [12]
 2025-01-22 add integration tests [13]
 2025-01-22 rollback changes [14]
+2025-01-22 enhance error reporting [15]
