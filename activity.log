@@ -759,3 +759,4 @@
 2025-01-23 patch memory leak [17]
 2025-01-23 better error handling [18]
 2025-01-23 update build script [19]
+2025-01-23 stabilize build [20]
