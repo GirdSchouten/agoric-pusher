@@ -883,3 +883,4 @@
 2025-01-27 fix typo in code [27]
 2025-01-27 adjust validation rules [28]
 2025-01-27 update build script [29]
+2025-01-27 fix null pointer [30]
