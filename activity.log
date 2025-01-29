@@ -959,3 +959,4 @@
 2025-01-29 minor refactor [9]
 2025-01-29 patch memory leak [10]
 2025-01-29 update CI pipeline [11]
+2025-01-29 add tests [12]
