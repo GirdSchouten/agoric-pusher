@@ -1035,3 +1035,4 @@
 2025-01-31 remove legacy code [3]
 2025-01-31 update README [4]
 2025-01-31 fix config bug [5]
+2025-01-31 improve logging format [6]
