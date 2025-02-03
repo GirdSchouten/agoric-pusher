@@ -1120,3 +1120,4 @@
 2025-02-03 update version [4]
 2025-02-03 better error handling [5]
 2025-02-03 update schema migration [6]
+2025-02-03 fix null pointer [7]
