@@ -1135,3 +1135,4 @@
 2025-02-03 add tests [19]
 2025-02-03 update database schema [20]
 2025-02-03 clean project structure [21]
+2025-02-03 fix null pointer [22]
