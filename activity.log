@@ -1172,3 +1172,4 @@
 2025-02-04 fix broken link [22]
 2025-02-04 better error handling [23]
 2025-02-04 stabilize build [24]
+2025-02-04 add integration tests [25]
