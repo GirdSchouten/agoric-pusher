@@ -1222,3 +1222,4 @@
 2025-02-06 update CI pipeline [9]
 2025-02-06 add sample data [10]
 2025-02-06 patch memory leak [11]
+2025-02-06 fix encoding issue [12]
