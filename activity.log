@@ -1260,3 +1260,4 @@
 2025-02-07 fix docker build [25]
 2025-02-08 fix misconfiguration [1]
 2025-02-08 add unit tests [2]
+2025-02-08 update logging [3]
