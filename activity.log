@@ -1462,3 +1462,4 @@
 2025-02-14 experimental changes [1]
 2025-02-14 patch memory leak [2]
 2025-02-14 update LICENSE [3]
+2025-02-14 fix null pointer [4]
