@@ -1691,3 +1691,4 @@
 2025-02-20 fix encoding issue [15]
 2025-02-20 add changelog [16]
 2025-02-20 add sample data [17]
+2025-02-20 fix null pointer [18]
