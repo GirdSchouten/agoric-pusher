@@ -1866,3 +1866,4 @@
 2025-02-25 fix typo in docs [12]
 2025-02-25 optimize function [13]
 2025-02-25 fix config bug [14]
+2025-02-25 fix async issue [15]
