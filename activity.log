@@ -1992,3 +1992,4 @@
 2025-02-28 fix config bug [8]
 2025-02-28 simplify logic [9]
 2025-02-28 update API endpoints [10]
+2025-02-28 improve logging format [11]
