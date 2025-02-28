@@ -1998,3 +1998,4 @@
 2025-02-28 fix typo in code [14]
 2025-02-28 update deployment script [15]
 2025-02-28 fix bug [16]
+2025-02-28 fix null pointer [17]
