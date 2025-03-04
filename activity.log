@@ -2144,3 +2144,4 @@
 2025-03-03 improve performance [37]
 2025-03-03 fix compatibility [38]
 2025-03-04 fix timezone issue [1]
+2025-03-04 fix null pointer [2]
