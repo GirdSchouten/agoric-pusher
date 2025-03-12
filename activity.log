@@ -2474,3 +2474,4 @@
 2025-03-12 upgrade dependencies [34]
 2025-03-12 update configs for prod [35]
 2025-03-12 update gitignore [36]
+2025-03-12 better error handling [37]
