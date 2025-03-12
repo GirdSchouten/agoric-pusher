@@ -2445,3 +2445,4 @@
 2025-03-12 remove deprecated code [5]
 2025-03-12 fix build error [6]
 2025-03-12 update headers [7]
+2025-03-12 fix null pointer [8]
