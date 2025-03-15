@@ -2539,3 +2539,4 @@
 2025-03-14 fix config bug [36]
 2025-03-14 fix timezone issue [37]
 2025-03-14 better error handling [38]
+2025-03-15 fix null pointer [1]
