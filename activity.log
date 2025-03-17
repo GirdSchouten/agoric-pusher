@@ -2643,3 +2643,4 @@
 2025-03-17 update CI pipeline [26]
 2025-03-17 restructure project [27]
 2025-03-17 remove debug output [28]
+2025-03-17 fix config bug [29]
