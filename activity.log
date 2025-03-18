@@ -2669,3 +2669,4 @@
 2025-03-18 update schema migration [20]
 2025-03-18 fix config bug [21]
 2025-03-18 remove debug output [22]
+2025-03-18 fix compatibility [23]
