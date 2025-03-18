@@ -2651,3 +2651,4 @@
 2025-03-18 fix encoding issue [2]
 2025-03-18 update docs with examples [3]
 2025-03-18 refactor tests [4]
+2025-03-18 improve logging format [5]
