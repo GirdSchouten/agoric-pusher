@@ -2924,3 +2924,4 @@
 2025-03-25 fix misconfiguration [8]
 2025-03-25 update gitignore [9]
 2025-03-25 update headers [10]
+2025-03-25 better error handling [11]
