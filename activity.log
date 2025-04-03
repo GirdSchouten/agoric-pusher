@@ -3269,3 +3269,4 @@
 2025-04-03 add sample data [3]
 2025-04-03 remove unused import [4]
 2025-04-03 update configs for prod [5]
+2025-04-03 better error handling [6]
