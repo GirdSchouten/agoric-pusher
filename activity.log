@@ -3672,3 +3672,4 @@
 2025-04-14 improve logging format [40]
 2025-04-14 better error handling [41]
 2025-04-14 fix typo in docs [42]
+2025-04-14 adjust error messages [43]
