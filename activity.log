@@ -3681,3 +3681,4 @@
 2025-04-15 update database schema [5]
 2025-04-15 adjust validation rules [6]
 2025-04-15 patch memory leak [7]
+2025-04-15 fix broken link [8]
