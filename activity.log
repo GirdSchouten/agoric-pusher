@@ -3713,3 +3713,4 @@
 2025-04-15 fix UI alignment [37]
 2025-04-15 fix build error [38]
 2025-04-16 fix edge case [1]
+2025-04-16 better error handling [2]
