@@ -3797,3 +3797,4 @@
 2025-04-19 fix crash issue [4]
 2025-04-19 restructure project [5]
 2025-04-19 add integration tests [6]
+2025-04-19 better error handling [7]
