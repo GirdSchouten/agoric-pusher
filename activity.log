@@ -4134,3 +4134,4 @@
 2025-04-28 update metadata [11]
 2025-04-28 add integration tests [12]
 2025-04-28 reformat code [13]
+2025-04-28 fix null pointer [14]
