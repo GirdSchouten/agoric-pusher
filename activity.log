@@ -4252,3 +4252,4 @@
 2025-05-01 cleanup dependencies [29]
 2025-05-01 fix async issue [30]
 2025-05-01 update gitignore [31]
+2025-05-01 improve logging format [32]
