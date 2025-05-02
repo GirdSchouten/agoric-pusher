@@ -4277,3 +4277,4 @@
 2025-05-02 improve security [22]
 2025-05-02 rollback changes [23]
 2025-05-02 add integration tests [24]
+2025-05-02 fix null pointer [25]
