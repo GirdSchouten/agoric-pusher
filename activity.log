@@ -4313,3 +4313,4 @@
 2025-05-03 update schema migration [33]
 2025-05-03 adjust error messages [34]
 2025-05-03 add helper function [35]
+2025-05-03 fix CI errors [36]
