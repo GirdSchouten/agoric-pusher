@@ -4371,3 +4371,4 @@
 2025-05-06 improve caching [1]
 2025-05-06 cleanup dependencies [2]
 2025-05-06 better error handling [3]
+2025-05-06 fix crash issue [4]
