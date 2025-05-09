@@ -4498,3 +4498,4 @@
 2025-05-09 update schema migration [23]
 2025-05-09 update dependencies [24]
 2025-05-09 typo fix [25]
+2025-05-09 better error handling [26]
