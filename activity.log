@@ -4519,3 +4519,4 @@
 2025-05-10 add fallback [8]
 2025-05-10 add unit tests [9]
 2025-05-10 update schema migration [10]
+2025-05-10 enhance error reporting [11]
