@@ -4884,3 +4884,4 @@
 2025-05-19 improve logging format [45]
 2025-05-19 fix UI alignment [46]
 2025-05-20 fix timezone issue [1]
+2025-05-20 better error handling [2]
