@@ -5146,3 +5146,4 @@
 2025-05-27 stabilize build [36]
 2025-05-27 add integration tests [37]
 2025-05-27 improve logging format [38]
+2025-05-27 patch memory leak [39]
