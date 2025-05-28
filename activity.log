@@ -5174,3 +5174,4 @@
 2025-05-28 fix bug [16]
 2025-05-28 patch memory leak [17]
 2025-05-28 update API keys [18]
+2025-05-28 fix encoding issue [19]
