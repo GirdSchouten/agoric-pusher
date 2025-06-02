@@ -5324,3 +5324,4 @@
 2025-06-02 update configs for prod [1]
 2025-06-02 cleanup dependencies [2]
 2025-06-02 update docs with examples [3]
+2025-06-02 fix build error [4]
