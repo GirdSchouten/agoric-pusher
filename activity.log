@@ -5353,3 +5353,4 @@
 2025-06-03 update workflow [1]
 2025-06-03 update constants [2]
 2025-06-03 add tests [3]
+2025-06-03 fix null pointer [4]
