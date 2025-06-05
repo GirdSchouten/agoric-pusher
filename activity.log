@@ -5421,3 +5421,4 @@
 2025-06-05 remove deprecated code [3]
 2025-06-05 update database schema [4]
 2025-06-05 upgrade dependencies [5]
+2025-06-05 update build script [6]
