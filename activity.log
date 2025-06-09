@@ -5541,3 +5541,4 @@
 2025-06-09 minor refactor [2]
 2025-06-09 update logging [3]
 2025-06-09 fix CI errors [4]
+2025-06-09 better error handling [5]
