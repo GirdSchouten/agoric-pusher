@@ -5580,3 +5580,4 @@
 2025-06-09 fix crash issue [41]
 2025-06-09 remove test code [42]
 2025-06-10 fix encoding issue [1]
+2025-06-10 update database schema [2]
