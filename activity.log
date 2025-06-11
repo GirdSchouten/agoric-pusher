@@ -5613,3 +5613,4 @@
 2025-06-11 remove deprecated code [12]
 2025-06-11 change configuration [13]
 2025-06-11 add example file [14]
+2025-06-11 fix null pointer [15]
