@@ -5658,3 +5658,4 @@
 2025-06-13 fix null pointer [4]
 2025-06-13 fix warnings [5]
 2025-06-13 optimize queries [6]
+2025-06-13 add helper function [7]
