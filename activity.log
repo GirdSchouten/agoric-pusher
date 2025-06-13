@@ -5667,3 +5667,4 @@
 2025-06-13 fix typo in docs [13]
 2025-06-13 improve performance [14]
 2025-06-13 improve logging format [15]
+2025-06-13 fix config bug [16]
