@@ -5716,3 +5716,4 @@
 2025-06-14 add integration tests [31]
 2025-06-14 fix config bug [32]
 2025-06-14 improve caching [33]
+2025-06-14 fix null pointer [34]
