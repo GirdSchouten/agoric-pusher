@@ -5811,3 +5811,4 @@
 2025-06-17 fix docker build [15]
 2025-06-17 improve caching [16]
 2025-06-17 add example file [17]
+2025-06-17 fix compatibility [18]
