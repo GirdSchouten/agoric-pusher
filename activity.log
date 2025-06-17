@@ -5823,3 +5823,4 @@
 2025-06-17 fix async issue [27]
 2025-06-17 clean project structure [28]
 2025-06-17 increase test coverage [29]
+2025-06-17 fix encoding issue [30]
