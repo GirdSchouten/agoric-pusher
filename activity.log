@@ -6014,3 +6014,4 @@
 2025-06-23 upgrade dependencies [23]
 2025-06-23 remove deprecated code [24]
 2025-06-23 improve UX [25]
+2025-06-23 fix build error [26]
