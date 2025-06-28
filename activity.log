@@ -6198,3 +6198,4 @@
 2025-06-28 add helper function [17]
 2025-06-28 fix config bug [18]
 2025-06-28 increase test coverage [19]
+2025-06-28 better error handling [20]
