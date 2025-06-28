@@ -6195,3 +6195,4 @@
 2025-06-28 fix null pointer [14]
 2025-06-28 add fallback [15]
 2025-06-28 add TODOs [16]
+2025-06-28 add helper function [17]
