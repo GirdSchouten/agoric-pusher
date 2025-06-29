@@ -6230,3 +6230,4 @@
 2025-06-29 fix docker build [23]
 2025-06-29 update configs [24]
 2025-06-29 simplify logic [25]
+2025-06-29 adjust error messages [26]
