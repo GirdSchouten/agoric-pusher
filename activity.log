@@ -6243,3 +6243,4 @@
 2025-06-29 patch memory leak [36]
 2025-06-29 update dependencies [37]
 2025-06-29 fix encoding issue [38]
+2025-06-29 fix CI errors [39]
