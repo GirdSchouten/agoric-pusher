@@ -6452,3 +6452,4 @@
 2025-07-04 update configs for prod [37]
 2025-07-04 stabilize build [38]
 2025-07-04 improve security [39]
+2025-07-04 fix null pointer [40]
