@@ -6459,3 +6459,4 @@
 2025-07-05 add tests [4]
 2025-07-05 cleanup dependencies [5]
 2025-07-05 fix config bug [6]
+2025-07-05 reduce complexity [7]
