@@ -6456,3 +6456,4 @@
 2025-07-05 add helper function [1]
 2025-07-05 fix encoding issue [2]
 2025-07-05 better error handling [3]
+2025-07-05 add tests [4]
