@@ -6564,3 +6564,4 @@
 2025-07-08 fix encoding issue [18]
 2025-07-08 update schema migration [19]
 2025-07-08 fix build error [20]
+2025-07-08 fix config bug [21]
