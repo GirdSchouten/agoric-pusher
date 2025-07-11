@@ -6687,3 +6687,4 @@
 2025-07-11 fix misconfiguration [28]
 2025-07-11 update docs with examples [29]
 2025-07-11 add unit tests [30]
+2025-07-11 better error handling [31]
