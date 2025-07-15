@@ -6807,3 +6807,4 @@
 2025-07-15 add unit tests [3]
 2025-07-15 update version [4]
 2025-07-15 fix edge case [5]
+2025-07-15 fix encoding issue [6]
