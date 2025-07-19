@@ -6951,3 +6951,4 @@
 2025-07-19 fix encoding issue [1]
 2025-07-19 small refactor [2]
 2025-07-19 rebuild project [3]
+2025-07-19 fix null pointer [4]
