@@ -7073,3 +7073,4 @@
 2025-07-22 fix encoding issue [18]
 2025-07-22 clean project structure [19]
 2025-07-22 cleanup code [20]
+2025-07-22 better error handling [21]
