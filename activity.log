@@ -7070,3 +7070,4 @@
 2025-07-22 improve logging format [15]
 2025-07-22 clean project structure [16]
 2025-07-22 fix typo in docs [17]
+2025-07-22 fix encoding issue [18]
