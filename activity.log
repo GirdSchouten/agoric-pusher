@@ -7090,3 +7090,4 @@
 2025-07-22 stabilize build [35]
 2025-07-22 update deployment script [36]
 2025-07-22 fix docker build [37]
+2025-07-22 update configs for prod [38]
