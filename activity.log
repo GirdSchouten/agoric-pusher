@@ -7253,3 +7253,4 @@
 2025-07-27 add example file [47]
 2025-07-28 improve security [1]
 2025-07-28 update build script [2]
+2025-07-28 better error handling [3]
