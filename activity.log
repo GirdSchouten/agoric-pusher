@@ -7585,3 +7585,4 @@
 2025-08-06 add integration tests [4]
 2025-08-06 fix encoding issue [5]
 2025-08-06 restructure modules [6]
+2025-08-06 update schema migration [7]
