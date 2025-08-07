@@ -7625,3 +7625,4 @@
 2025-08-07 restructure project [21]
 2025-08-07 add example file [22]
 2025-08-07 update schema migration [23]
+2025-08-07 patch memory leak [24]
