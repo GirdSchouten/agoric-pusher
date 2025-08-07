@@ -7627,3 +7627,4 @@
 2025-08-07 update schema migration [23]
 2025-08-07 patch memory leak [24]
 2025-08-07 adjust timeout [25]
+2025-08-07 clean project structure [26]
