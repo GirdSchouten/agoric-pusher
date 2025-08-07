@@ -7618,3 +7618,4 @@
 2025-08-07 improve caching [14]
 2025-08-07 fix CI errors [15]
 2025-08-07 update API docs [16]
+2025-08-07 add integration tests [17]
