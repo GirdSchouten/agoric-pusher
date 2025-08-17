@@ -7981,3 +7981,4 @@
 2025-08-17 patch memory leak [31]
 2025-08-17 improve logging format [32]
 2025-08-17 upgrade dependencies [33]
+2025-08-17 fix crash issue [34]
