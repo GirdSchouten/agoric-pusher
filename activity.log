@@ -8211,3 +8211,4 @@
 2025-08-24 minor refactor [21]
 2025-08-24 update scripts [22]
 2025-08-24 fix typo in docs [23]
+2025-08-24 patch memory leak [24]
