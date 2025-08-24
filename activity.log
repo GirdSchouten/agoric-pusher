@@ -8191,3 +8191,4 @@
 2025-08-24 update schema migration [1]
 2025-08-24 upgrade dependencies [2]
 2025-08-24 fix warnings [3]
+2025-08-24 stabilize build [4]
