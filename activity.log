@@ -8288,3 +8288,4 @@
 2025-08-26 improve security [22]
 2025-08-26 small refactor [23]
 2025-08-26 add logging [24]
+2025-08-26 patch memory leak [25]
