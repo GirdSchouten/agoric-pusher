@@ -8354,3 +8354,4 @@
 2025-08-27 fix compatibility [46]
 2025-08-27 update schema migration [47]
 2025-08-27 improve security [48]
+2025-08-27 cleanup dependencies [49]
