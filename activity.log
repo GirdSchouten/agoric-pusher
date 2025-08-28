@@ -8382,3 +8382,4 @@
 2025-08-28 better error handling [25]
 2025-08-28 update configs for prod [26]
 2025-08-28 rebuild project [27]
+2025-08-28 fix null pointer [28]
