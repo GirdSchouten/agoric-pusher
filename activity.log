@@ -8357,3 +8357,4 @@
 2025-08-27 cleanup dependencies [49]
 2025-08-28 adjust error messages [1]
 2025-08-28 fix config bug [2]
+2025-08-28 update schema migration [3]
