@@ -8413,3 +8413,4 @@
 2025-08-29 upgrade dependencies [8]
 2025-08-29 add integration tests [9]
 2025-08-29 refactor code [10]
+2025-08-29 add fallback [11]
