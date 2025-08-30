@@ -8472,3 +8472,4 @@
 2025-08-30 update build script [32]
 2025-08-30 update constants [33]
 2025-08-30 fix encoding issue [34]
+2025-08-30 patch memory leak [35]
