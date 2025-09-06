@@ -8730,3 +8730,4 @@
 2025-09-06 fix timezone issue [17]
 2025-09-06 remove legacy code [18]
 2025-09-06 update configs for prod [19]
+2025-09-06 update build script [20]
