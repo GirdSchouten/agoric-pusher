@@ -8834,3 +8834,4 @@
 2025-09-08 enhance error reporting [31]
 2025-09-09 update schema migration [1]
 2025-09-09 update database schema [2]
+2025-09-09 better error handling [3]
