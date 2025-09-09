@@ -8857,3 +8857,4 @@
 2025-09-09 update schema migration [23]
 2025-09-09 adjust validation rules [24]
 2025-09-09 fix null pointer [25]
+2025-09-09 fix crash issue [26]
