@@ -9216,3 +9216,4 @@
 2025-09-20 fix warnings [35]
 2025-09-20 fix async issue [36]
 2025-09-20 update build script [37]
+2025-09-20 improve logging format [38]
