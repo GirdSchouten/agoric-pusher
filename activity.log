@@ -9220,3 +9220,4 @@
 2025-09-20 fix docker build [39]
 2025-09-20 better error handling [40]
 2025-09-20 improve security [41]
+2025-09-21 add helper function [1]
