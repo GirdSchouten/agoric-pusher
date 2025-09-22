@@ -9287,3 +9287,4 @@
 2025-09-22 fix typo in docs [20]
 2025-09-22 add integration tests [21]
 2025-09-22 restructure modules [22]
+2025-09-22 update configs for prod [23]
