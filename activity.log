@@ -9719,3 +9719,4 @@
 2025-10-05 fix crash issue [29]
 2025-10-05 add helper function [30]
 2025-10-05 update schema migration [31]
+2025-10-05 enhance error reporting [32]
