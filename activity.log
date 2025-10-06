@@ -9769,3 +9769,4 @@
 2025-10-06 fix config bug [31]
 2025-10-06 update configs for prod [32]
 2025-10-06 add unit tests [33]
+2025-10-06 simplify logic [34]
