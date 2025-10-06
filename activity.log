@@ -9749,3 +9749,4 @@
 2025-10-06 fix CI errors [11]
 2025-10-06 fix bug [12]
 2025-10-06 update gitignore [13]
+2025-10-06 better error handling [14]
