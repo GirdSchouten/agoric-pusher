@@ -9829,3 +9829,4 @@
 2025-10-08 update schema migration [1]
 2025-10-08 add integration tests [2]
 2025-10-08 fix type error [3]
+2025-10-08 better error handling [4]
