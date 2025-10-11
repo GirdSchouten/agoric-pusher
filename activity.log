@@ -9975,3 +9975,4 @@
 2025-10-11 change configuration [17]
 2025-10-11 better error handling [18]
 2025-10-11 fix docker build [19]
+2025-10-11 update build script [20]
