@@ -10165,3 +10165,4 @@
 2025-10-16 add tests [24]
 2025-10-16 better error handling [25]
 2025-10-16 fix CI errors [26]
+2025-10-16 add fallback [27]
