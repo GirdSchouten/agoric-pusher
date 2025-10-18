@@ -10237,3 +10237,4 @@
 2025-10-18 fix config bug [22]
 2025-10-18 add integration tests [23]
 2025-10-18 update gitignore [24]
+2025-10-18 stabilize build [25]
