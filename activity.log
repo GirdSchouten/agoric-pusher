@@ -10241,3 +10241,4 @@
 2025-10-18 fix config bug [26]
 2025-10-18 update LICENSE [27]
 2025-10-18 change configuration [28]
+2025-10-18 fix docker build [29]
