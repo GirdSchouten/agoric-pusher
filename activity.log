@@ -10261,3 +10261,4 @@
 2025-10-19 add example file [17]
 2025-10-19 update database schema [18]
 2025-10-19 update configs for prod [19]
+2025-10-19 fix null pointer [20]
