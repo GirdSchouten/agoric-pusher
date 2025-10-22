@@ -10391,3 +10391,4 @@
 2025-10-22 add TODOs [19]
 2025-10-22 adjust timeout [20]
 2025-10-22 fix docker build [21]
+2025-10-22 update schema migration [22]
