@@ -10505,3 +10505,4 @@
 2025-10-25 fix docker build [35]
 2025-10-25 add tests [36]
 2025-10-25 optimize queries [37]
+2025-10-25 tweak configs [38]
