@@ -10542,3 +10542,4 @@
 2025-10-27 remove legacy code [12]
 2025-10-27 restructure modules [13]
 2025-10-27 patch memory leak [14]
+2025-10-27 add helper function [15]
