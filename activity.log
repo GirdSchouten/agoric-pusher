@@ -10660,3 +10660,4 @@
 2025-10-30 update gitignore [31]
 2025-10-30 adjust error messages [32]
 2025-10-30 refactor tests [33]
+2025-10-30 fix docker build [34]
