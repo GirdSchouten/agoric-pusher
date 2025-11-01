@@ -10694,3 +10694,4 @@
 2025-10-31 improve maintainability [20]
 2025-11-01 improve caching [1]
 2025-11-01 fix crash issue [2]
+2025-11-01 fix async issue [3]
