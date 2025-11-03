@@ -10773,3 +10773,4 @@
 2025-11-03 improve caching [10]
 2025-11-03 update constants [11]
 2025-11-03 fix warnings [12]
+2025-11-03 fix build error [13]
