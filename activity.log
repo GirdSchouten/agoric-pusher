@@ -10880,3 +10880,4 @@
 2025-11-05 add helper function [25]
 2025-11-05 fix warnings [26]
 2025-11-05 fix timezone issue [27]
+2025-11-06 simplify logic [1]
