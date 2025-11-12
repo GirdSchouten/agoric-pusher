@@ -11077,3 +11077,4 @@
 2025-11-11 add integration tests [34]
 2025-11-11 improve maintainability [35]
 2025-11-12 fix async issue [1]
+2025-11-12 update schema migration [2]
