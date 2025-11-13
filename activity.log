@@ -11144,3 +11144,4 @@
 2025-11-13 add logging [25]
 2025-11-13 fix misconfiguration [26]
 2025-11-13 update scripts [27]
+2025-11-13 better error handling [28]
