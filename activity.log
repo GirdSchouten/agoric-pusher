@@ -11196,3 +11196,4 @@
 2025-11-14 add tests [45]
 2025-11-14 stabilize build [46]
 2025-11-14 add helper function [47]
+2025-11-15 better error handling [1]
