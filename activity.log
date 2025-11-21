@@ -11416,3 +11416,4 @@
 2025-11-21 update API endpoints [15]
 2025-11-21 fix CI errors [16]
 2025-11-21 fix warnings [17]
+2025-11-21 improve caching [18]
