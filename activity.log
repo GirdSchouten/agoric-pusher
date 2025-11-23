@@ -11493,3 +11493,4 @@
 2025-11-23 update schema migration [15]
 2025-11-23 fix typo in docs [16]
 2025-11-23 update configs for prod [17]
+2025-11-23 simplify logic [18]
