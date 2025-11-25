@@ -11560,3 +11560,4 @@
 2025-11-25 update database schema [15]
 2025-11-25 update constants [16]
 2025-11-25 stabilize build [17]
+2025-11-25 fix encoding issue [18]
