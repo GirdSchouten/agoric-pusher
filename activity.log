@@ -11579,3 +11579,4 @@
 2025-11-25 patch memory leak [34]
 2025-11-25 update logging [35]
 2025-11-25 remove debug output [36]
+2025-11-25 fix config bug [37]
