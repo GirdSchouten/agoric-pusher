@@ -11578,3 +11578,4 @@
 2025-11-25 update LICENSE [33]
 2025-11-25 patch memory leak [34]
 2025-11-25 update logging [35]
+2025-11-25 remove debug output [36]
