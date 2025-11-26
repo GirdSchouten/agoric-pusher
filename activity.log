@@ -11592,3 +11592,4 @@
 2025-11-26 add example file [1]
 2025-11-26 fix typo in docs [2]
 2025-11-26 improve caching [3]
+2025-11-26 remove deprecated code [4]
