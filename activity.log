@@ -11667,3 +11667,4 @@
 2025-11-28 remove deprecated code [6]
 2025-11-28 improve performance [7]
 2025-11-28 update docs with examples [8]
+2025-11-28 fix async issue [9]
