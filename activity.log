@@ -11753,3 +11753,4 @@
 2025-11-30 update schema migration [21]
 2025-11-30 update configs for prod [22]
 2025-11-30 fix CI errors [23]
+2025-11-30 fix crash issue [24]
