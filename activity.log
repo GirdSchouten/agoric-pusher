@@ -11733,3 +11733,4 @@
 2025-11-30 add fallback [1]
 2025-11-30 simplify logic [2]
 2025-11-30 cleanup dependencies [3]
+2025-11-30 add integration tests [4]
