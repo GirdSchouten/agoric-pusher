@@ -11758,3 +11758,4 @@
 2025-11-30 update constants [26]
 2025-11-30 restructure modules [27]
 2025-11-30 update schema migration [28]
+2025-12-01 better error handling [1]
