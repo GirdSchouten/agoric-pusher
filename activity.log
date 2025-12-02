@@ -11844,3 +11844,4 @@
 2025-12-02 add fallback [35]
 2025-12-02 better error handling [36]
 2025-12-02 fix config bug [37]
+2025-12-02 enhance error reporting [38]
