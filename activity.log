@@ -11907,3 +11907,4 @@
 2025-12-05 upgrade dependencies [11]
 2025-12-05 adjust validation rules [12]
 2025-12-05 tweak configs [13]
+2025-12-05 better error handling [14]
