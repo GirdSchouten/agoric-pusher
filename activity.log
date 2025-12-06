@@ -11960,3 +11960,4 @@
 2025-12-06 update API docs [33]
 2025-12-06 fix timezone issue [34]
 2025-12-06 add unit tests [35]
+2025-12-06 optimize queries [36]
