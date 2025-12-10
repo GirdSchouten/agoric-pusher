@@ -12090,3 +12090,4 @@
 2025-12-10 fix timezone issue [9]
 2025-12-10 update gitignore [10]
 2025-12-10 cleanup dependencies [11]
+2025-12-10 fix encoding issue [12]
