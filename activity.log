@@ -12340,3 +12340,4 @@
 2025-12-16 add logging [38]
 2025-12-17 upgrade dependencies [1]
 2025-12-17 improve logging format [2]
+2025-12-17 add helper function [3]
