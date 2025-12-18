@@ -12378,3 +12378,4 @@
 2025-12-18 upgrade dependencies [9]
 2025-12-18 improve logging format [10]
 2025-12-18 update API keys [11]
+2025-12-18 better error handling [12]
