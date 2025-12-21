@@ -12502,3 +12502,4 @@
 2025-12-21 fix encoding issue [18]
 2025-12-21 update API endpoints [19]
 2025-12-21 adjust error messages [20]
+2025-12-21 fix null pointer [21]
