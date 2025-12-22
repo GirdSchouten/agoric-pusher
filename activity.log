@@ -12524,3 +12524,4 @@
 2025-12-21 small refactor [40]
 2025-12-22 update schema migration [1]
 2025-12-22 tweak configs [2]
+2025-12-22 adjust error messages [3]
